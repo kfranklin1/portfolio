@@ -3,6 +3,7 @@ function contactSubmit() {
     if (X == "") {
         alert("Email must be filled out");
         return false;
- } else { 
-    alert(" Thank You For Contacting Katron");
+    } else { 
+        alert(" Thank You For Contacting Katron");
+    }
 }
