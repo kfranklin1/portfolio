@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: 'dist/html/contactform.html'
 })
 
-export class  {
+export class ContactformComponent {
     name = 'katron franklin';
     test(){
       alert('hello me')
