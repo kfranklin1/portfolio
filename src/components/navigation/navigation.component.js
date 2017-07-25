@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
 })
 
 export class NavigationComponent {
-    name = 'Angular';
+    name = 'katron franklin';
+    test(){
+      alert('hello me')
+    }
 }
